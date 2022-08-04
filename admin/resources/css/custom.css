@@ -1,0 +1,82 @@
+.form-control {
+    display: block;
+    width: 100%;
+    height: 23px;
+    padding: 3px 6px;
+    font-size: 12px;
+}
+
+.input-group-addon{
+    padding: 3px 6px;
+}
+
+.navbar-static-top {
+    z-index: 1;
+}
+
+.v-dialog__content {
+    z-index: 9999 !important;
+}
+.v-dialog {
+    font-size: 15px;
+}
+
+.v-input .v-label {
+    font-size: 13PX;
+}
+
+hr {
+    margin: 0;
+}
+
+html, body {
+    height: auto;
+}
+
+.mx-datepicker {
+    width:110px;
+}
+
+.mx-input {
+    height: 23px;
+    padding: 3px 6px;
+    font-size: 12px;
+    border-radius: 0;
+    border: 1px solid #e5e6e7;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+
+select {
+    -moz-appearance: listbox;
+    -webkit-appearance:listbox;
+}
+
+.v-data-table__expanded.v-data-table__expanded__content {
+    box-shadow: none !important;
+    padding : 20px;
+}
+
+.v-messages__message {
+    color:red;
+}
+
+.btn-excel{
+    color: #fff !important;
+    background-color: #198754 !important;
+    border-color: #198754 !important;
+}
+
+.v-data-footer {
+    justify-content: flex-end !important;
+}
+
+.table-footer-prepend {
+    margin-top: -48px;
+    height: 58px;
+}
+
+.d-none {
+    display: none!important;
+}
